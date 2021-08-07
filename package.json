@@ -1,0 +1,24 @@
+{
+  "name": "firestoreapp",
+  "version": "1.0.0",
+  "description": "firebase upload products",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ray",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\\"
+  },
+  "keywords": [
+    "upload",
+    "json",
+    "firebase"
+  ],
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "firestore-export-import": "^0.16.0"
+  }
+}

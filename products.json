@@ -1,0 +1,309 @@
+{
+  "products": [
+    { "id":1,
+      "name": "Red Bench",
+      "category": "people",
+      "price": 3.89,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Red Bench Image"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    { 
+      "id":2,
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 93.89,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/6979899/pexels-photo-6979899.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Egg Balloon Image"
+        },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":3,
+      "name": "Man",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/374044/pexels-photo-374044.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Man Image"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":4,
+      "name": "Rising Cloud",
+      "category": "nature",
+      "price": 250,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Rising Cloud Image"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":5,
+      "name": "London",
+      "category": "cities",
+      "price": 230,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/1578332/pexels-photo-1578332.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":6,
+      "name": "Kangaroo kids",
+      "category": "pets",
+      "price": 190,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/2122423/pexels-photo-2122423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":7,
+      "name": "Beef Wellington",
+      "category": "food",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/7363690/pexels-photo-7363690.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":8,
+      "name": "Bubble and squeak",
+      "category": "food",
+      "price": 230,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/556414/pexels-photo-556414.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Bubble and squeak Image"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":9,
+      "name": "Morning Sun",
+      "category": "nature",
+      "price": 200,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/1090745/pexels-photo-1090745.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Morning Sun Image"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":10,
+      "name": "Pie and mash",
+      "category": "food",
+      "price": 180,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/205961/pexels-photo-205961.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Pie and mash Image"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":11,
+      "name": "Golder Gate",
+      "category": "landmarks",
+      "price": 40,
+      "currency": "USD",
+      "image": {
+        "src": "",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":12,
+      "name": "National Mall",
+      "category": "landmarks",
+      "price": 150,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/4819658/pexels-photo-4819658.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":13,
+      "name": "High Class",
+      "category": "premium",
+      "price": 190,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":14,
+      "name": "Nodeman Craig",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Nodeman Image"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":15,
+      "name": "Steak pie",
+      "category": "food",
+      "price": 190,
+      "currency": "USD",
+      "image": {
+        "src": "",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":16,
+      "name": "Woman Coder",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":17,
+      "name": "Washington Hills",
+      "category": "landmarks",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/7444956/pexels-photo-7444956.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":18,
+      "name": "Lagos Island",
+      "category": "cities",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/6773524/pexels-photo-6773524.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": "Lagos Image"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id":19,
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 101,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "https://images.pexels.com/photos/955733/pexels-photo-955733.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+        },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    
+    {
+      "id":20,
+      "name": "Samurai King Restling",
+      "category": "landmarks",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/698207/pexels-photo-698207.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "So how did the classNameical Latin become so incoherent? According to McClincktock, a fifteen century typesetter likely scramble part of Ciceros'de Finibus in order to provide placeholder text to mock up various fonts for a type specimen book. So how did the classNameical Latin became so incoherent? According to McClincktock So how did the classNameical Latin became so incoherent? According to McClincktock So how did the classNameical Latin became so incoherent? According to McClincktock. ",
+        "recommendations": [
+          {
+            "src": "https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": ""
+          },
+          {
+            "src": "https://images.pexels.com/photos/4530802/pexels-photo-4530802.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": ""
+          },
+          {
+            "src": "https://images.pexels.com/photos/2588257/pexels-photo-2588257.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": ""
+          }
+        ]
+      }
+    }
+  ]
+}

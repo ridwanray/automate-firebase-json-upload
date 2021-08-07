@@ -1,0 +1,1 @@
+A node module to automate json file upload to Firebase.
